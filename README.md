@@ -1,5 +1,7 @@
 # AI-Assisted Mutation Testing
 
+**Aktuálna verzia (kostra) diplomovej práce a prezentácia sa nachádzajú v docs**
+
 Diplomová práca: **Testovanie mutácií s podporou umelej inteligencie: Inteligentné procesy pre automatizované zabezpečenie kvality**
 
 Cieľom projektu je preskúmať, ako môže umelá inteligencia zlepšiť praktické používanie mutation testingu. Mutation testing je silná technika na hodnotenie kvality testov, ale v praxi býva pomalá, výpočtovo náročná a výsledky môžu byť ťažšie interpretovateľné.
