@@ -38,4 +38,5 @@ Doteraz som sa venoval hlavne týmto častiam:
 
 ## Status
 
-Projekt je zatiaľ vo fáze výskumu a experimentálneho prototypovania. Cieľom je overiť, ktoré časti mutation testing workflowu vie AI agent zmysluplne automatizovať a kde má takýto prístup najväčšiu praktickú hodnotu.
+Projekt je zatiaľ vo fáze výskumu a experimentálneho prototypovania. Cieľom je overiť, ktoré časti mutation testing workflowu vie AI agent zmysluplne automatizovať a kde má takýto prístup najväčšiu praktickú hodnotu. Prípadne aké zmeny vo frameworkoch dokážu najvic developerom pomôcť.
+
